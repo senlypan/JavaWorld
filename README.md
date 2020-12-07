@@ -4,4 +4,4 @@ Welcome to JavaWord ，这里是潘潘和他的朋友们，一群有点特别的
 
 目前每周至少更新两篇文章，全网统一发，另外微信公众号有准备一些惊喜，大家可以搜微信公众号 **「潘潘和他的朋友们」** 关注一哈，领取惊喜吧！
 
-![JavaWord](https://github.com/senlypan/JavaWord)
+![JavaWord](https://gitee.com/senlypan/notes/raw/master/images/JavaWord.png)
