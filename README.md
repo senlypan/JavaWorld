@@ -6,4 +6,4 @@ Welcome to JavaWord ，这里是潘潘和他的朋友们，一群有点特别的
 
 微信公众号有准备一些惊喜，大家可以搜微信公众号 **「潘潘和他的朋友们」** 关注一哈，领取惊喜吧！
 
-![JavaWord](https://img-blog.csdnimg.cn/2020120810271254.png)
+![JavaWord](https://camo.githubusercontent.com/64c206892bcc5a89df72e391ad23a0f76c4a99bacead85e748ca52e1ebb79c45/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f323032303132303831303237313235342e706e67)
