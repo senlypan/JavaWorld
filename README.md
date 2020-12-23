@@ -1,13 +1,12 @@
 # JavaWord
 
 
-> Welcome to JavaWord ，这里是潘潘和他的朋友们，一群有点特别的架构师。 
-> 文章会持续更新，微信搜索「**潘潘和他的朋友们**」第一时间阅读，随时有惊喜。
-> 热腾腾的技术、框架、面经、解决方案，我们都会以最美的姿势第一时间送达，欢迎 Star ~ 
-> 我们未来 **不止文章**！想进微信读者群的伙伴欢迎撩我个人号：panshenlian，备注「**加群**」我们群里欢聊吧 ~
+> Hi, Welcome to JavaWord ，这里是潘潘和他的朋友们，一群有点特别的架构师。关于热腾腾的技术、框架、面经、解决方案、教程、视频、漫画等等等等 ，我们都会以最美的姿势第一时间送达，欢迎 Star ~ 我们未来 **不止文章**！
+
+内容会持续更新，微信搜索「**潘潘和他的朋友们**」第一时间阅读，随时有惊喜。希望进微信读者群一起交流学习的伙伴欢迎撩我个人号：panshenlian，备注「**加群**」我们群里欢聊吧 ~
 
 
-![](https://img-blog.csdnimg.cn/20201210095648535.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01yUmlnaHRfc2VubHlwYW4=,size_16,color_FFFFFF,t_70#pic_center) 
+![](https://img-blog.csdnimg.cn/20201210095648535.png) 
 
 
 
