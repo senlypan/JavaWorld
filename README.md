@@ -1,26 +1,15 @@
 # JavaWord
 
 
-> Hi, Welcome to JavaWord ，这里是潘潘和他的朋友们，一群有点特别的架构师。关于热腾腾的技术、框架、面经、解决方案、教程、视频、漫画等等等等 ，我们都会以最美的姿势第一时间送达，欢迎 Star ~ 我们未来 **不止文章**！
+> Hi, Welcome to JavaWord ，这里是潘潘和他的朋友们，一群有点特别的架构师/设计师。关于热腾腾的技术、框架、面经、解决方案、摸鱼技巧、教程、视频、漫画等等等等 ，我们都会以最美的姿势第一时间送达，欢迎 Star ~ 我们未来 **不止文章**！
 
-内容会持续更新，微信搜索「**潘潘和他的朋友们**」第一时间阅读，随时有惊喜。希望进微信读者群一起交流学习的伙伴欢迎撩我个人号：panshenlian，备注「**加群**」我们群里欢聊吧 ~
-
-
-![](https://img-blog.csdnimg.cn/20201210095648535.png) 
+微信搜索「**潘潘和他的朋友们**」第一时间阅读，随时有惊喜。希望进微信读者群一起交流学习的伙伴欢迎撩我个人号：panshenlian，备注「**加群**」我们群里欢聊吧 ~
 
 
 
 # 前言 
 
-目前每周更新两篇文章，全网统一发。 
-
-
-![JavaWord](https://img-blog.csdnimg.cn/20201210100909755.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01yUmlnaHRfc2VubHlwYW4=,size_16,color_FFFFFF,t_70#pic_center)
-
- 
-
-![](https://img-blog.csdnimg.cn/20201210112606613.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01yUmlnaHRfc2VubHlwYW4=,size_16,color_FFFFFF,t_70#pic_center)
-
+内容持续更新，全网统一发。 
 
 
 # 目录
@@ -53,6 +42,14 @@
 - Mybatis系列全解（十四）：Spring集成Mybatis
 - Mybatis系列全解（十五）：SpringBoot集成Mybatis
 - Mybatis系列全解（十六）：Mybatis源码剖析
+
+
+### 漫画集
+
+### 视频集
+
+### 生活那些事
+
 
 
 
