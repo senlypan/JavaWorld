@@ -51,7 +51,119 @@
 - Mybatis系列全解（十六）：Mybatis源码剖析
 
 
-# 生活那些事
+# 基础
+- 集合
+- 网络
+
+# 数据结构和算法
+- 高级数据结构
+- 排序、递归与回溯
+- 深度与广度优先搜索
+- 动态规划
+- 二分搜索与贪婪算法
+
+
+# 多线程
+- 基础
+- 核心
+
+# 高并发
+- 线程6种状态机制分析与线程池实现原理
+- 悲观锁与乐观锁
+- JDK锁机制
+- 死锁的产生与避免
+- 阻塞队列与线程协作机制
+- 抽象队列化同步器AQS
+
+# JVM
+- JVM内存模型
+- JVM内存泄漏检查
+- GC机制及算法分析
+- JVM优化实战 
+
+# Spring 全家桶
+- Spring 框架 
+- Spring MVC 
+- Spring Boot 
+- Spring Data 
+
+# Web 服务器
+- Tomcat 
+- Nginx 
+- Linux  
+- Cluster 
+- Web服务综合解决方案 
+
+# 分布式
+- 分布式理论及架构设计 
+- 服务治理
+
+# 微服务
+- Apache Dubbo 
+- 分布式协调服务Zookeeper
+- SpringCloud
+
+# 分布式系统存储
+- MySQL
+- MongoDB
+- Hbase 
+- Neo4j 
+- FastDFS 
+- HDFS 
+- 阿里云OSS云存储 
+- Redis 
+- Twemproxy  
+- Guava Cache 
+- Tair 
+- Aerospike
+
+# 中间件 
+- RecketMQ
+- RabbitMQ
+- Kafka
+
+# 分布式搜索引擎
+- Lucene
+- Solr
+- Elasticsearch
+- ELK
+- 分布式实时流式计算引擎 Flink
+
+# 容器技术
+- Docker
+- Cloud Foundry
+- Mesos + Marahton
+- 虚拟化容器弹性扩缩容方案
+
+# CI/CD
+- Jenkins
+- Sonar
+
+# Devops
+- Devops开发运维一体化方案
+- APM管理工具Skywalking
+- 性能监控工具Pinpoint
+
+# 主流解决方案分享
+- 秒杀系统解决方案
+- 单点登录SSO+第三方登录解决方案
+- 即时通信IM解决方案
+- 服务推送解决方案
+- 第三方支付解决方案
+- 架构安全解决方案
+- 基于位置服务LBS解决方案
+- 分布式任务调度解决方案
+- 规则引擎解决方案
+- BI报表解决方案
+
+# 面试
+- 如何打造一份让人无法拒绝的简历
+- 如何准备
+- 如何应对面试
+- 面试题每日一刷
+
+# 生活情感
+- 潘潘和他的朋友们真实故事
 
 
 # 彩蛋
