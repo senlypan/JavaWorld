@@ -51,6 +51,31 @@
 - Mybatis系列全解（十六）：Mybatis源码剖析
 
 
+# 互联网
+- 互联网是怎么运作的？
+- HTTP 是什么？ 
+- 浏览器是什么？ 
+- DNS 是什么？
+- 域名是什么？
+- 主机是什么？
+
+# 基础前端知识
+- HTML 基础全解
+- CSS 基础全解
+- JavaScript 基础全解
+
+# 操作系统与基础知识
+- 操作系统是什么
+- 进程管理
+- 内存管理
+- 进程间通信
+- I/O 管理
+- 终端基础命令: grep,awk,sed,lsof,curl,wget,tail,head,less,find,ssh,kill
+
+# 版本控制
+- Git 是什么
+- GitHub 的使用
+
 # 基础
 - 集合
 - 网络
@@ -61,7 +86,6 @@
 - 深度与广度优先搜索
 - 动态规划
 - 二分搜索与贪婪算法
-
 
 # 多线程
 - 基础
@@ -93,6 +117,9 @@
 - Linux  
 - Cluster 
 - Web服务综合解决方案 
+- Apache
+- Caddy
+- MS IIS
 
 # 分布式
 - 分布式理论及架构设计 
@@ -135,6 +162,33 @@
 - Mesos + Marahton
 - 虚拟化容器弹性扩缩容方案
 
+# APIs 设计
+- REST
+- JSON APIs
+- SOAP
+- Open API 与 Swagger
+- OAuth
+- 基础认证
+- Token 认证
+- JWT
+
+# 测试
+- 单元测试
+- 过程测试
+- 集成测试
+- Mock
+
+# 网络安全
+- 加密算法简介
+- 对称加密
+- 非对称加密
+- MD5（为什么不推荐使用MD5）
+- SHA 家族
+- scrypt 算法
+- bcrypt 算法
+- CORS
+- SSL/TLS
+
 # CI/CD
 - Jenkins
 - Sonar
@@ -155,6 +209,18 @@
 - 分布式任务调度解决方案
 - 规则引擎解决方案
 - BI报表解决方案
+
+# 软件设计与开发规范
+- SOLID
+- KISS
+- YAGNI
+- DRY
+
+# 架构模式
+- 单机应用
+- 微服务架构
+- SOA
+- Serverless
 
 # 面试
 - 如何打造一份让人无法拒绝的简历
