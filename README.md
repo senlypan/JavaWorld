@@ -11,6 +11,15 @@
 
 内容持续更新，全网统一发。 
 
+- ![OSChina](https://my.oschina.net/senlypan)
+- ![CSDN](https://blog.csdn.net/MrRight_senlypan)
+- ![掘金](https://juejin.cn/user/281117861620535)
+- ![知乎](https://www.zhihu.com/people/panpan-friends)
+- ![简书](https://www.jianshu.com/u/24fd90738062)
+- ![慕课网]()
+- ![牛客网]()
+- ![InfoQ]()
+
 
 # 译文集
   
