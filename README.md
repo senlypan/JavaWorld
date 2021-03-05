@@ -11,14 +11,15 @@
 
 内容持续更新，全网统一发。 
 
+- [知乎](https://www.zhihu.com/people/panpan-friends)
+- [51CTO](https://blog.51cto.com/11138521)
 - [OSChina](https://my.oschina.net/senlypan)
 - [CSDN](https://blog.csdn.net/MrRight_senlypan)
 - [掘金](https://juejin.cn/user/281117861620535)
-- [知乎](https://www.zhihu.com/people/panpan-friends)
+- [InfoQ](https://www.infoq.cn/u/panshenlian)
+- [博客园](https://www.cnblogs.com/panshenlian/)
 - [简书](https://www.jianshu.com/u/24fd90738062)
-- [慕课网]()
-- [牛客网]()
-- [InfoQ]()
+
 
 
 # 译文集
